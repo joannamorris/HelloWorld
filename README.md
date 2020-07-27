@@ -1,3 +1,5 @@
+![headshot] (headshot_2.jpg)
+
 # About me
 My name is Joanna Morris, and I am an Associate Professor of Psychology at Providence College. My research falls at the intersection of cognitive psychology, linguistics and cognitive neuroscience.  I am interested in the structure of lexical representations and in applying electrophysiological techniques, in particular event related potentials, to the investigation of cognitive phenomena. Whilst my thesis work consisted of investigating the relationship between orthography and lexical stress in English, my current research is focused on examining how complex words are represented in the mental lexicon or dictionary.
 
