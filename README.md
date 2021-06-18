@@ -8,4 +8,6 @@ I spent the 2019-2020 academic year as a Provosts Fellow in Cognitive Science at
 
 Because cognitive science is concerned with understanding why we do the things we do and think the way we think, how we perceive the world around us and what biases we bring to the table, we can use principles of cognitive science to design products, environments and experiences that are both easy to use and aesthetically pleasing.
 
+# Using GitHub
+
 Much of my github account is devoted to code that I have written to automate workflows in the electrophysiology lab so as to minimize human error (really crucial when working with undergraduates!)
